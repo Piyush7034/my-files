@@ -1,5 +1,4 @@
-[
-    {
+{
         "@context": [
             "https://www.w3.org/ns/did/v1"
         ],
@@ -24,5 +23,4 @@
         "assertionMethod": [
             "did:web:piyush7034.github.io:my-files:107d681b-f816-4a70-9410-7d2e1548b03f#key-0"
         ]
-    }
-]
+}
