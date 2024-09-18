@@ -1,0 +1,27 @@
+
+    {
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:piyush7034.github.io:my-files:6673f4e9-6a7c-4ca3-9e9f-fcfeef913b4f",
+        "alsoKnownAs": [
+            "testUUID",
+            "test@gmail.com"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:piyush7034.github.io:my-files:6673f4e9-6a7c-4ca3-9e9f-fcfeef913b4f#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:piyush7034.github.io:my-files:6673f4e9-6a7c-4ca3-9e9f-fcfeef913b4f",
+                "publicKeyMultibase": "z6MkqJCDtGBhfpoqPQKuCRMqeXfvpU4mHXjkfhcK7CLrpsuM"
+            }
+        ],
+        "authentication": [
+            "did:web:piyush7034.github.io:my-files:6673f4e9-6a7c-4ca3-9e9f-fcfeef913b4f#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:piyush7034.github.io:my-files:6673f4e9-6a7c-4ca3-9e9f-fcfeef913b4f#key-0"
+        ]
+    }
