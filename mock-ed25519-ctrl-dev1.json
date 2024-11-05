@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/security/v2",
+    "id": "https://piyush7034.github.io/my-files/mock-ed25519-ctrl-dev1.json",
+    "assertionMethod": [
+        "https://piyush7034.github.io/my-files/mock-ed25519-dev1.json"
+    ]
+}
