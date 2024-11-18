@@ -13,6 +13,6 @@
     "municipality": "schema:Text",
     "totalArea": "schema:Text",
     "fiscalModules": "schema:Text",
-    "protocolCode": "schema:Text",
+    "protocolCode": "schema:Text"
   }
 }
