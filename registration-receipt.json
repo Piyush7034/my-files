@@ -15,8 +15,7 @@
     "fiscalModules": "schema:Number",
     "protocolCode": "schema:Text",
     "geographicalCoordinates": {
-      "@id": "schema:geographicalCoordinates",
-      "@type": "GeoCoordinates",
+      "@type": "schema:GeoCoordinates",
       "latitude": "schema:latitude",
       "longitude":"schema:longitude"
     }
