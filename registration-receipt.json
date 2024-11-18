@@ -11,8 +11,8 @@
     "ruralPropertyName": "schema:Text",
     "registrationDate": "schema:Text",
     "municipality": "schema:Text",
-    "totalArea": "schema:Text",
-    "fiscalModules": "schema:Text",
+    "totalArea": "schema:Number",
+    "fiscalModules": "schema:Number",
     "protocolCode": "schema:Text"
   }
 }
