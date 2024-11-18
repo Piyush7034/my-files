@@ -9,7 +9,7 @@
     },
     "carRegistrationNumber": "schema:Text",
     "ruralPropertyName": "schema:Text",
-    "registrationDate": "schema:Text",
+    "registrationDate": "schema:DateTime",
     "municipality": "schema:Text",
     "totalArea": "schema:Number",
     "fiscalModules": "schema:Number",
