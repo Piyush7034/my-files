@@ -14,7 +14,6 @@
     "totalArea": "schema:Number",
     "fiscalModules": "schema:Number",
     "protocolCode": "schema:Text",
-    "geographicalCoordinates": "schema:geographicalCoordinates",
-    "holder": "schema:holder"
+    "geographicalCoordinates": "schema:geographicalCoordinates"
   }
 }
