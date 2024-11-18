@@ -12,8 +12,8 @@
     "registrationDate": "schema:DateTime",
     "municipality": "schema:Text",
     "geographicalCoordinates": "schema:geographicalCoordinates",
-    "totalArea": "schema:Number",
-    "fiscalModules": "schema:Number",
+    "totalArea": "schema:Text",
+    "fiscalModules": "schema:Text",
     "protocolCode": "schema:Text",
     "holder": "schema:holder",
     "declaredAreas": "schema:declaredAreas"
