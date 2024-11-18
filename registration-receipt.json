@@ -8,7 +8,7 @@
       "@id": "https://piyush7034.github.io/my-files/RegistrationReceiptCredential.json#RegistrationCredential"
     },
     "carRegistrationNumber": "schema:Text",
-    "ruralPropertyName": "schema:name",
+    "ruralPropertyName": "schema:Text",
     "registrationDate": "schema:DateTime",
     "municipality": "schema:Text",
     "geographicalCoordinates": "schema:geographicalCoordinates",
