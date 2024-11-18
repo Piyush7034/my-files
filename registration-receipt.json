@@ -9,13 +9,10 @@
     },
     "carRegistrationNumber": "schema:Text",
     "ruralPropertyName": "schema:Text",
-    "registrationDate": "schema:DateTime",
+    "registrationDate": "schema:Text",
     "municipality": "schema:Text",
-    "geographicalCoordinates": "schema:geographicalCoordinates",
     "totalArea": "schema:Text",
     "fiscalModules": "schema:Text",
     "protocolCode": "schema:Text",
-    "holder": "schema:holder",
-    "declaredAreas": "schema:declaredAreas"
   }
 }
