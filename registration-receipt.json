@@ -13,9 +13,6 @@
     "municipality": "schema:Text",
     "totalArea": "schema:Number",
     "fiscalModules": "schema:Number",
-    "protocolCode": "schema:Text",
-    "geographicalCoordinates": "schema:geographicalCoordinates",
-    "holder": "schema:holder",
-    "declaredAreas": "schema:declaredAreas"
+    "protocolCode": "schema:Text"
   }
 }
