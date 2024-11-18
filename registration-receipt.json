@@ -15,6 +15,7 @@
     "fiscalModules": "schema:Number",
     "protocolCode": "schema:Text",
     "geographicalCoordinates": "schema:geographicalCoordinates",
-    "holderData": "schema:holderData"
+    "holderData": "schema:holderData",
+    "declaredAreas": "schema:declaredAreas"
   }
 }
