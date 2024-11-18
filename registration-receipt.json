@@ -5,10 +5,10 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "RegistrationReceiptCredential": {
-      "@id": "https://piyush7034.github.io/my-files/registration-receipt.json#RegistrationReceiptCredential"
+      "@id": "schema:RegistrationReceipt"
     },
     "carRegistrationNumber": "schema:Text",
-    "ruralPropertyName": "schema:Text",
+    "ruralPropertyName": "schema:Text", 
     "registrationDate": "schema:DateTime",
     "municipality": "schema:Text",
     "totalArea": "schema:Number",
@@ -17,7 +17,7 @@
     "geographicalCoordinates": {
       "@type": "schema:GeoCoordinates",
       "latitude": "schema:latitude",
-      "longitude":"schema:longitude"
+      "longitude": "schema:longitude"
     }
   }
 }
