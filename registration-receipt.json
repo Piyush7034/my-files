@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "RegistrationReceiptCredential": {
-      "@id": "https://piyush7034.github.io/my-files/RegistrationReceiptCredential.json#RegistrationReceiptCredential"
+      "@id": "https://piyush7034.github.io/my-files/registration-receipt.json#RegistrationReceiptCredential"
     },
     "carRegistrationNumber": "schema:Text",
     "ruralPropertyName": "schema:Text",
