@@ -14,8 +14,8 @@
     "totalArea": "schema:Number",
     "fiscalModules": "schema:Number",
     "protocolCode": "schema:Text",
-    "geographicalCoordinates": ${geographicalCoordinates},
-    "holder": ${holder},
-    "declaredAreas": ${declaredAreas}
+    "geographicalCoordinates": "schema:geographicalCoordinates",
+    "holder": "schema:holder",
+    "declaredAreas": "schema:declaredAreas"
   }
 }
