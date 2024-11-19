@@ -12,7 +12,11 @@
     "lastAmendmentDate": "schema:Date",
     "ruralPropertyArea": "schema:Number",
     "municipality": "schema:Text",
-    "geographicalCoordinatesCentroid": "schema:GeoCoordinates",
+    "geographicalCoordinatesCentroid": {
+      "@type": "GeoCoordinates",
+      "latitude": "schema:latitude",
+      "longitude": "schema:longitude"
+    },
     "externalCondition": "schema:Text",
     "registrationStatus": "schema:Text",
     "praCondition": "schema:Text",
