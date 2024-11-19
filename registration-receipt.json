@@ -14,7 +14,13 @@
     "totalArea": "schema:Number",
     "fiscalModules": "schema:Number",
     "protocolCode": "schema:Text",
-    "geographicalCoordinates": "schema:geographicalCoordinates",
+    "geographicalCoordinates": {
+            "@id": "schema:GeoCoordinates",
+            "@context": {
+                "latitude": "schema:latitude",
+                "longitude": "schema:longitude"
+            }
+        },
     "holderData": "schema:holderData",
     "declaredAreas": "schema:declaredAreas"
   }
