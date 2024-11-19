@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "StatementCredential": {
-      "@id": "schema:Statement"
+      "@id": "https://piyush7034.github.io/my-files/statement.json#StatementCredential"
     },
     "carRegistrationNumber": "schema:Text",
     "registrationDate": "schema:DateTime",
