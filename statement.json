@@ -12,19 +12,13 @@
     "lastAmendmentDate": "schema:Date",
     "ruralPropertyArea": "schema:Number",
     "municipality": "schema:Text",
-    "geographicalCoordinatesCentroid": "schema:geographicalCoordinatesCentroid",
+    "geographicalCoordinatesCentroid": "schema:GeoCoordinates",
     "externalCondition": "schema:Text",
     "registrationStatus": "schema:Text",
     "praCondition": "schema:Text",
-    "landCover": "schema:landCover",
     "legalReserveLocation": "schema:Text",
     "documentalInformation": "schema:Number",
-    "georeferencedInformation": "schema:georeferencedInformation",
-    "permanentPreservationAreas": "schema:permanentPreservationAreas",
     "restrictedUseAreas": "schema:Number",
-    "environmentalRegularity": "schema:environmentalRegularity",
     "additionalInformation": "schema:Text",
-    "embargoedAreas": "schema:embargoedAreas",
-    "conservationUnit": "schema:conservationUnit"
   }
 }
