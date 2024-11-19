@@ -14,8 +14,14 @@
     "municipality": "schema:Text",
     "geographicalCoordinatesCentroid": {
       "@type": "schema:GeoCoordinates",
-      "latitude": "schema:Text",
-      "longitude": "schema:Text"
+      "latitude": {
+        "@id": "schema:latitude",
+        "@type": "schema:Text"
+      },
+      "longitude": {
+        "@id": "schema:longitude",
+        "@type": "schema:Text"
+      }
     },
     "externalCondition": "schema:Text",
     "registrationStatus": "schema:Text",
