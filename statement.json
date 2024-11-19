@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "StatementCredential": {
+      "@id": "schema:Statement"
+    },
+    "carRegistrationNumber": "schema:Text",
+    "registrationDate": "schema:DateTime",
+    "lastAmendmentDate": "schema:Date",
+    "ruralPropertyArea": "schema:Number",
+    "municipality": "schema:Text",
+    "geographicalCoordinatesCentroid": "schema:geographicalCoordinatesCentroid",
+    "externalCondition": "schema:Text",
+    "registrationStatus": "schema:Text",
+    "praCondition": "schema:Text",
+    "landCover": "schema:landCover",
+    "legalReserveLocation": "schema:Text",
+    "documentalInformation": "schema:Number",
+    "georeferencedInformation": "schema:georeferencedInformation",
+    "permanentPreservationAreas": "schema:permanentPreservationAreas",
+    "restrictedUseAreas": "schema:Number",
+    "environmentalRegularity": "schema:environmentalRegularity",
+    "additionalInformation": "schema:Text",
+    "embargoedAreas": "schema:embargoedAreas",
+    "conservationUnit": "schema:conservationUnit"
+  }
+}
