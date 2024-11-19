@@ -19,6 +19,6 @@
     "legalReserveLocation": "schema:Text",
     "documentalInformation": "schema:Number",
     "restrictedUseAreas": "schema:Number",
-    "additionalInformation": "schema:Text",
+    "additionalInformation": "schema:Text"
   }
 }
