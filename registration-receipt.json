@@ -7,21 +7,24 @@
     "RegistrationReceiptCredential": {
       "@id": "https://piyush7034.github.io/my-files/registration-receipt.json#RegistrationReceiptCredential"
     },
-    "carRegistrationNumber": "schema:Text",
-    "ruralPropertyName": "schema:Text", 
+    "carRegistrationNumber": "schema:Text",   
     "registrationDate": "schema:DateTime",
+    "ruralPropertyName": "schema:Text",
     "municipality": "schema:Text",
-    "totalArea": "schema:Number",
-    "fiscalModules": "schema:Number",
+    "latitude": "schema:Text",
+    "longitude": "schema:Text",
+    "totalArea": "schema:Text",
+    "fiscalModules": "schema:Float",
     "protocolCode": "schema:Text",
-    "geographicalCoordinates": {
-            "@id": "schema:GeoCoordinates",
-            "@context": {
-                "latitude": "schema:latitude",
-                "longitude": "schema:longitude"
-            }
-        },
-    "holderData": "schema:holderData",
-    "declaredAreas": "schema:declaredAreas"
+    "cpf": "schema:Text",
+    "holderName": "schema:Text",
+    "totalAreaDeclared": "schema:Float",
+    "administrativeEasementArea": "schema:Float",
+    "netArea":"schema:Float",
+    "consolidatedArea": "schema:Float",
+    "nativeVegetationRemnant": "schema:Float",
+    "legalReserveArea": "schema:Float",
+    "permanentPreservationArea":"schema:Float",
+    "restrictedUseArea": "schema:Float"
   }
 }
