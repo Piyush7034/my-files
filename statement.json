@@ -1,38 +1,47 @@
 {
-  "@context": {
-    "@version": 1.1,
-    "@protected": true,
-    "type": "@type",
-    "schema": "https://schema.org/",
-    "StatementCredential": {
-      "@id": "https://piyush7034.github.io/my-files/statement.json#StatementCredential"
-    },
-    "carRegistrationNumber": "schema:Text",
-    "registrationDate": "schema:DateTime",
-    "lastAmendmentDate": "schema:Date",
-    "ruralPropertyArea": "schema:Number",
-    "municipality": "schema:Text",
-    "geographicalCoordinatesCentroid": {
-            "@id": "schema:GeoCoordinates",
-            "@context": {
-                "latitude": "schema:latitude",
-                "longitude": "schema:longitude"
-            }
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "StatementCredential": {
+            "@id": "https://piyush7034.github.io/my-files/statement.json#StatementCredential"
         },
-    "externalCondition": "schema:Text",
-    "registrationStatus": "schema:Text",
-    "praCondition": "schema:Text",
-    "legalReserveLocation": "schema:Text",
-    "documentalInformation": "schema:Number",
-    "restrictedUseAreas": "schema:Number",
-    "additionalInformation": "schema:Text",
-    "landCover": {
-      "@id": "schema:PropertyValue",
-      "@context": {
-        "adminEasementArea": "schema:Number",
-        "consolidateRuralArea": "schema:Number",
-        "nativeVegetationRemnantArea": "schema:Number"
-      }
+        "carRegistrationNumber": "schema:Text",
+        "registrationDate": "schema:DateTime",
+        "dateOfLastAmendment": "schema:DateTime",
+        "ruralPropertyArea": "schema:Float",
+        "latitude": "schema:Text",
+        "longitude": "schema:Text",
+        "municipality": "schema:Text",
+        "externalCondition": "schema:Text",
+        "registrationStatus": "schema:Text",
+        "praCondition": "schema:Text",
+        "landCover": "schema:Text",
+        "nativeVegetationRemnantArea": "schema:Float",
+        "consolidatedRuralArea": "schema:Float",
+        "administrativeEasementArea":"schema:Float",
+        "locationOfLegalReserve": "schema:Text",
+        "registeredLegalReserveArea": "schema:Float",
+        "georeferencedLegalReserveArea": "schema:Float",
+        "approvedLegalReserveAreaNotRegistered": "schema:Float",
+        "proposedLegalReserveArea": "schema:Float",
+        "totalLegalReserveDeclared": "schema:Float",
+        "permanentPreservationAreasAPP": "schema:Float",
+        "appInConsolidatedRuralArea": "schema:Float",
+        "appInNativeVegetationRemnantArea":"schema:Float",
+        "restrictedUseAreas": "schema:Float",
+        "legalReserveDeficitExcess": "schema:Float",
+        "legalReserveAreaToRecompose": "schema:Float",
+        "permanentPreservationAreasToRecompose": "schema:Float",
+        "restrictedUseAreaToRecompose": "schema:Float",
+        "embargoedAreaDescription": "schema:Text",
+        "embargoedAreaProcessingDate": "schema:DateTime",
+        "embargoedAreaOverlap": "schema:Float",
+        "embargoedAreaOverlapPercentage":"schema:Float",
+        "conservationUnitDescription": "schema:Float",
+        "conservationUnitProcessingDate": "schema:DateTime",
+        "conservationUnitOverlapArea": "schema:Float",
+        "conservationUnitOverlapPercentage":"schema:Float"
     }
   }
-}
