@@ -25,12 +25,6 @@
     "legalReserveLocation": "schema:Text",
     "documentalInformation": "schema:Number",
     "restrictedUseAreas": "schema:Number",
-    "additionalInformation": "schema:Text",
-    "landCover": {
-      "@id": "https://piyush7034.github.io/my-files/statement.json#LandCover",
-      "adminEasementArea": "schema:Number",
-      "consolidateRuralArea": "schema:Number",
-      "nativeVegetationRemnantArea": "schema:Number"
-    }
+    "additionalInformation": "schema:Text"
   }
 }
