@@ -7,7 +7,7 @@
     "RegistrationReceiptCredential": {
       "@id": "https://piyush7034.github.io/my-files/registration-receipt.json#RegistrationReceiptCredential"
     },
-    "carRegistrationNumber": "schema:Text",   
+    "númeroDeRegistroDoCarro": "schema:Text",   
     "registrationDate": "schema:DateTime",
     "ruralPropertyName": "schema:Text",
     "municipality": "schema:Text",
