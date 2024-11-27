@@ -4,8 +4,8 @@
         "@protected": true,
         "tipo": "@type",
         "esquema": "https://schema.org/",
-        "StatementCredential": {
-            "@id": "https://piyush7034.github.io/my-files/statement.json#StatementCredential"
+        "LandStatementCredential": {
+            "@id": "https://piyush7034.github.io/my-files/statement.json#LandStatementCredential"
         },
         "NumeroDeRegistroCAR": "schema:Text",
         "DataDeRegistro": "schema:DateTime",
