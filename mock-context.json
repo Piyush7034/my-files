@@ -2,7 +2,7 @@
     "@context": [{
       "@version": 1.1
     },"https://www.w3.org/ns/odrl.jsonld", {
-      "mosip": "https://vharsh.github.io/mosip#",
+      "mosip": "https://piyush7034.github.io/mosip#",
       "schema": "http://schema.org/",
       "MockVerifiableCredential": {
        "@id": "https://piyush7034.github.io/my-files/mock-context.json#MockVerifiableCredential"
