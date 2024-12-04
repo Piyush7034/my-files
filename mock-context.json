@@ -38,12 +38,15 @@
   
       "dateOfBirth": "mosip:dateOfBirth",
       "email": "mosip:email",
+      "emailId": "mosip:emailId",
       "fullName": {
         "@id": "https://piyush7034.github.io/mosip#fullName",
         "@context": {"value": "rdf:value", "lang": "@language"}
       },
       "phone": "mosip:phone",
+      "phoneNumber": "mosip:phoneNumber",
       "postalCode": "mosip:postalCode",
+      "address": "mosip:address",
       "province": {
         "@id": "https://piyush7034.github.io/mosip#province",
         "@context": {"value": "rdf:value", "lang": "@language"}
