@@ -18,6 +18,7 @@
     "landArea": "schema:Number",
     "landOwnershipType": "schema:Text",
     "primaryCropType": "schema:Text",
-    "secondaryCropType": "schema:Text"
+    "secondaryCropType": "schema:Text",
+    "face": "schema:Text"
   }
 }
