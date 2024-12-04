@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "FarmerCredential": {
+      "@id": "https://piyush7034.github.io/my-files/FarmerCredential.json#FarmerCredential"
+    },
+    "name": "schema:name",
+    "dateOfBirth": "schema:birthDate",
+    "highestEducation": "schema:Text",
+    "maritalStatus": "schema:Text",
+    "typeOfHouse": "schema:Text",
+    "numberOfDependents": "schema:Number",
+    "address": "schema:address",
+    "phoneNumber": "schema:telephone",
+    "knowsLanguage": "schema:ItemList",
+    "works": "schema:Text",
+    "farmingTypes": "schema:Text",
+    "landArea": "schema:Number",
+    "landOwnershipType": "schema:Text",
+    "primaryCropType": "schema:Text",
+    "secondaryCropType": "schema:Text"
+  }
+}
