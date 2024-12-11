@@ -5,5 +5,5 @@
   "controller": "https://piyush7034.github.io/my-files/mock-ed25519-ctrl-dev1.json",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMCowBQYDK2VwAyEAFi0yGDpZPGjcqZpiUxCA3L94nMcASJbOnHgm9WFRot0=\r\n-----END PUBLIC KEY-----",
   "expires": "2026-09-20T11:40:13Z",
-  "publicKeyBase58": "z6Mkfwpz9ZdhCMPcUJcAruJdwmvdciq1F4XbzPaZPmtm2WmA"
+  "publicKeyBase58": "Eh8dBqGaMVoiJk6bo5xGRxdB3zbdMrE2R6cDtgm5SBRESAUhPUZ5fjTMHcQPzzZQYnSHxH6WTN8N8ZUMvL"
 }
