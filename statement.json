@@ -2,8 +2,8 @@
     "@context": {
         "@version": 1.1,
         "@protected": true,
-        "tipo": "@type",
-        "esquema": "https://schema.org/",
+        "type": "@type",
+        "schema": "https://schema.org/",
         "LandStatementCredential": {
             "@id": "https://piyush7034.github.io/my-files/statement.json#LandStatementCredential"
         },
