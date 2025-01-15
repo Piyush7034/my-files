@@ -7,9 +7,9 @@
         "CountryDataCredential": {
             "@id": "https://piyush7034.github.io/my-files/country-data.json#CountryDataCredential"
         },
-        "countryName": "${name}"
-        "countryPopulation": ${population},
-        "countryCapital": "${capital}",
-        "countryCurrency": "${currency}"
+        "countryName": "schema:Text"
+        "countryPopulation": "schema:Number",
+        "countryCapital": "schema:Text",
+        "countryCurrency": "schema:Text"
     }
   }
