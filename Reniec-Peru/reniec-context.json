@@ -7,6 +7,7 @@
 		"ReniecCredential": {
 			"@id": "https://piyush7034.github.io/my-files/Reniec-Peru/reniec-context.json#ReniecCredential"
 		},
+		"id": "schema:Text"
 		"prenombres": "schema:name",
 		"primerApellido": "schema:name",
 		"segundoApellido": "schema:name",
