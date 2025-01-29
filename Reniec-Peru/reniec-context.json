@@ -1,0 +1,19 @@
+{
+	"@context": {
+		"@version": 1.1,
+		"@protected": true,
+		"type": "@type",
+		"schema": "https://schema.org/",
+		"ReniecCredential": {
+			"@id": "https://piyush7034.github.io/my-files/Reniec-Peru/reniec-context.json#ReniecCredential"
+		},
+		"firstName": "schema:name",
+		"firstLastName": "schema:name",
+		"secondLastName": "schema:name",
+		"dateOfBirth": "schema:birthDate",
+		"gender": "schema:gender",
+		"maritalStatus": "schema:Text",
+		"face": "schema:Text",
+		"id": "schema:Text"
+	}
+}
