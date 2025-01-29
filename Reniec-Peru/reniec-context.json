@@ -8,11 +8,11 @@
 			"@id": "https://piyush7034.github.io/my-files/Reniec-Peru/reniec-context.json#ReniecCredential"
 		},
 		"id": "schema:Text",
-		"prenombres": "schema:name",
-		"primerApellido": "schema:name",
-		"segundoApellido": "schema:name",
-		"fechaNacimiento": "schema:birthDate",
-		"genero": "schema:gender",
+		"prenombres": "schema:Text",
+		"primerApellido": "schema:Text",
+		"segundoApellido": "schema:Text",
+		"fechaNacimiento": "schema:Text",
+		"genero": "schema:Text",
 		"estadoCivil": "schema:Text",
 		"face": "schema:Text",
 		"dni": "schema:Text"
