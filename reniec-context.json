@@ -8,12 +8,12 @@
       "@id": "https://piyush7034.github.io/my-files/reniec-context.json#ReniecCredential"
     },
     "prenombres": "schema:Text",
-		"primerApellido": "schema:Text",
-		"segundoApellido": "schema:Text",
-		"fechaNacimiento": "schema:Text",
-		"genero": "schema:Text",
-		"estadoCivil": "schema:Text",
-		"face": "schema:Text",
-		"dni": "schema:Text"
+    "primerApellido": "schema:Text",
+    "segundoApellido": "schema:Text",
+    "fechaNacimiento": "schema:Text",
+    "genero": "schema:Text",
+    "estadoCivil": "schema:Text",
+    "face": "schema:Text",
+    "dni": "schema:Text"
   }
 }
