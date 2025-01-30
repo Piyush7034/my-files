@@ -6,7 +6,7 @@
   "id": "did:web:piyush7034.github.io:my-files:Peru-Local-Issuer",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkqKsoi9m7YgYBdBszosksUKNAueDkRm11CXLEp2MHTtuS",
+      "publicKeyMultibase": "z6MkgR1DH4qAPeHZeimLe7ETbeLFyb9Qn9oj687LBmLBvN2N",
       "controller": "did:web:piyush7034.github.io:my-files:Peru-Local-Issuer",
       "id": "did:web:piyush7034.github.io:my-files:Peru-Local-Issuer#key-0",
       "type": "Ed25519VerificationKey2020",
