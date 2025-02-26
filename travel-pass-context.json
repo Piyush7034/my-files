@@ -12,7 +12,6 @@
     "FullName": "schema:Text",
     "PhoneNumber": "schema:Integer",
     "Gender": "schema:Text",
-    "UIN": "schema:Text",
     "InvoiceNumber": "schema:Text",
     "InvoiceDate": "schema:Date",
     "ExporterName": "schema:Text",
