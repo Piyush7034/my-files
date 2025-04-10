@@ -19,14 +19,8 @@
     "BirthCountry": "schema:Text",
     "Image": "schema:ImageObject",
     "ComPass Number": "schema:Text",
-    "Compass MRZ TD3": "schema:Text",
-    "Eye Color": "schema:Text",
-    "Email": "schema:email",
     "VC Number": "schema:Number",
-    "Height": "schema:height",
-    "Mobile Number": "schema:telephone",
-    "Address": "schema:Text",
     "IssuanceDate": "schema:Date",
-    "ExpirationDate": "schema:Date",
+    "ExpirationDate": "schema:Date"
    }
 }
