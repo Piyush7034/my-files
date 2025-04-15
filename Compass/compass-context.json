@@ -17,6 +17,7 @@
     "birthCountry": "schema:Text",
     "face": "schema:Text",
     "compassId": "schema:Text",
-    "issuanceDate": "schema:Date"
+    "compassIssuanceDate": "schema:Date",
+    "compassExpirationDate": "schema:Date"
    }
 }
