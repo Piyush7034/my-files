@@ -4,8 +4,8 @@
     "@protected": true,
     "schema": "https://schema.org/",
     "type": "@type",
-    "ComPassCredential": {
-      "@id": "https://piyush7034.github.io/my-files/ComPass/passport-context.json#ComPassCredential"
+    "CompassCredential": {
+      "@id": "https://piyush7034.github.io/my-files/ComPass/passport-context.json#CompassCredential"
     },
     "firstName": "schema:Text",
     "lastName": "schema:Text",
