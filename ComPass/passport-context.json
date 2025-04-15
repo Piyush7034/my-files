@@ -7,20 +7,17 @@
     "ComPassCredential": {
       "@id": "https://piyush7034.github.io/my-files/ComPass/passport-context.json#ComPassCredential"
     },
-    "FirstName": "schema:Text",
-    "LastName": "schema:Text",
-    "FirstName (Latin)": "schema:Text",
-    "LastName (Latin)": "schema:Text",
-    "NationalIDNumber": "schema:Text",
-    "DateOfBirth": "schema:Date",
-    "Nationality": "schema:Text",
-    "Gender": "schema:Text",
-    "CAN (Card Access Numner)": "schema:Text",
-    "BirthCountry": "schema:Text",
-    "Image": "schema:ImageObject",
-    "ComPass Number": "schema:Text",
-    "VC Number": "schema:Number",
-    "IssuanceDate": "schema:Date",
-    "ExpirationDate": "schema:Date"
+    "firstName": "schema:Text",
+    "lastName": "schema:Text",
+    "nationalIDNumber": "schema:Text",
+    "dateOfBirth": "schema:Date",
+    "nationality": "schema:Text",
+    "gender": "schema:Text",
+    "cardAccessNumber": "schema:Text",
+    "birthCountry": "schema:Text",
+    "face": "schema:Text",
+    "compassId": "schema:Text",
+    "issuanceDate": "schema:Date",
+    "expirationDate": "schema:Date"
    }
 }
