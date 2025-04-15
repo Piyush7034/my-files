@@ -16,6 +16,7 @@
     "cardAccessNumber": "schema:Text",
     "birthCountry": "schema:Text",
     "face": "schema:Text",
-    "compassId": "schema:Text"
+    "compassId": "schema:Text",
+    "issuanceDate": "schema:Date"
    }
 }
