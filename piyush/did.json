@@ -6,11 +6,15 @@
 "id": "did:web:piyush7034.github.io:my-files:piyush",
 "verificationMethod": [
 {
-"publicKeyMultibase": "z6Mko52HCkb4s5KFqBiWMYgqnDvJq2jNYaQZrEL6EjJi75yT",
 "controller": "did:web:piyush7034.github.io:my-files:piyush",
+"publicKeyJwk": {
+"kty": "RSA",
+"e": "AQAB",
+"n": "nlW99b1dZM-ZIqaUiM9gMm8k3zV03c7RlAp9nmIqGCyY34RxKX3VmMRlc_QJbi_woBdyOcXX74j9SbRLehqbN_E1nsiH1lXWJS6XXzEH0p057I_ZyRHjWBxlB_rhvBDyIP9c3VdqkbHQDUAqNlLH2DWsC1G9OCaql0EEOyMG_xrc3j9Ode2ZSjLfpeWpnV0FYa6L6k0woP1HwFheYTz9jwC8zO06vOjBBUEoBnUtuaxLUXKxPh6XqGlJ8Z-jOLv-OA17k4XDLP-mWJ5Mzd67J5dy9dNFO15apYGVcq6ku8QR38mWgvyLOrnYXyfYrOexwYydHLVTKIGE4fOVV-L6iQ"
+},
 "id": "did:web:piyush7034.github.io:my-files:piyush#key-0",
-"type": "Ed25519VerificationKey2020",
-"@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+"type": "JsonWebKey2020",
+"@context": "https://w3id.org/security/suites/jws-2020/v1"
 }
 ],
 "@context": [
