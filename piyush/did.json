@@ -1,6 +1,6 @@
 {
 "assertionMethod": [
-"did:web:piyush7034.github.io:my-files:piyush#secp256r1-key"
+"did:web:piyush7034.github.io:my-files:piyush"
 ],
 "service": [],
 "id": "did:web:piyush7034.github.io:my-files:piyush",
@@ -48,6 +48,6 @@
 ],
 "alsoKnownAs": [],
 "authentication": [
-"did:web:piyush7034.github.io:my-files:piyush#secp256r1-key"
+"did:web:piyush7034.github.io:my-files:piyush"
 ]
 }
