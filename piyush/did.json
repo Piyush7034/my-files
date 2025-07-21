@@ -6,41 +6,41 @@
 "id": "did:web:piyush7034.github.io:my-files:piyush",
 "verificationMethod": [
 {
+"publicKeyMultibase": "zDnaekcbQ4yAdAJ67yeeeruMQwgbs4rR7ntHJEKzmQKrb8FKP",
 "controller": "did:web:piyush7034.github.io:my-files:piyush",
-"publicKeyJwk": {
-"kty": "RSA",
-"e": "AQAB",
-"n": "nlW99b1dZM-ZIqaUiM9gMm8k3zV03c7RlAp9nmIqGCyY34RxKX3VmMRlc_QJbi_woBdyOcXX74j9SbRLehqbN_E1nsiH1lXWJS6XXzEH0p057I_ZyRHjWBxlB_rhvBDyIP9c3VdqkbHQDUAqNlLH2DWsC1G9OCaql0EEOyMG_xrc3j9Ode2ZSjLfpeWpnV0FYa6L6k0woP1HwFheYTz9jwC8zO06vOjBBUEoBnUtuaxLUXKxPh6XqGlJ8Z-jOLv-OA17k4XDLP-mWJ5Mzd67J5dy9dNFO15apYGVcq6ku8QR38mWgvyLOrnYXyfYrOexwYydHLVTKIGE4fOVV-L6iQ"
-},
-"id": "did:web:piyush7034.github.io:my-files:piyush#M8kfM_QUuQSChzqziclzS020WyuEIdW2R7JSsKoGLvQ",
-"type": "JsonWebKey2020",
-"@context": "https://w3id.org/security/suites/jws-2020/v1"
-},
-{
-"publicKeyMultibase": "z6MknJej8pNXE839fGKfQHugTUr4vmRmCyAphAoDLEmiCjcb",
-"controller": "did:web:piyush7034.github.io:my-files:piyush",
-"id": "did:web:piyush7034.github.io:my-files:piyush#orFZLDgWuepcmniHyOaQC4Pui-ym8adV7AEi_tb0_vc",
-"type": "Ed25519VerificationKey2020",
-"@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+"id": "did:web:piyush7034.github.io:my-files:piyush#RF0HXDC57ACzfbJE-C05fhYbE8BjVhHyIO_UIrlZYM0",
+"type": "EcdsaSecp256r1VerificationKey2019",
+"@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
 },
 {
 "controller": "did:web:piyush7034.github.io:my-files:piyush",
 "publicKeyJwk": {
 "kty": "EC",
 "crv": "secp256k1",
-"x": "zO11E4rDkWL6ThOfJgwoxH-CLBMusBnCHko9ZFBwW5w",
-"y": "vNgZS2yXH-_VVrqD-XmdYkUd--lHVzXQusouzU-lxfo"
+"x": "Qow-CBoYsLqTIYY9rMUMmYWfxKfyF-hhtJoThr3WZZI",
+"y": "4zdB0qaf__SAuAunNStsiKqnIuenIQQKvzMkGJqoqQM"
 },
-"id": "did:web:piyush7034.github.io:my-files:piyush#tnwTlTvilf5alBG4YjCne5U97gKS8f_4ipn7BMTSNNg",
+"id": "did:web:piyush7034.github.io:my-files:piyush#_zL72aYQPuy-Fw6xFOLuk14uJ9kDWGa-tN7z__DbvsU",
 "type": "EcdsaSecp256k1VerificationKey2019",
 "@context": "https://w3id.org/security/v1"
 },
 {
-"publicKeyMultibase": "zDnaecsdoA9dhG2Rt49vQztWz6M8jbLr8ejeRX1CQGT3LZdHA",
+"publicKeyMultibase": "z6Mkv9mcTMfvZ2jLnxDwhNK5D3yU75fwnkozCrxeuNjrgqer",
 "controller": "did:web:piyush7034.github.io:my-files:piyush",
-"id": "did:web:piyush7034.github.io:my-files:piyush#uyIjmRVmGts8_BusMC6YYHqRLwPQWbufRinStE8SViI",
-"type": "EcdsaSecp256r1VerificationKey2019",
-"@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
+"id": "did:web:piyush7034.github.io:my-files:piyush#aAy-x_j1qYWLaJ99mFmOrDaFVK5kuqrpWHIkvt7CEXo",
+"type": "Ed25519VerificationKey2020",
+"@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+},
+{
+"controller": "did:web:piyush7034.github.io:my-files:piyush",
+"publicKeyJwk": {
+"kty": "RSA",
+"e": "AQAB",
+"n": "qnAEr2EaWWeT5KtdjCiw7TNi1IWvhiX0jo9vg1ixLdbP9H_H_ua06r1uw8xY3myGhiBu77CHqnstFzbYrJ-QGJnrJogzTV7CaTzSwlNtE3z3Tbm1hN__UmuxJO69CFQV3vDlVSEGOWI3VjVRj7x9kwY5ckFcpRUAgKI__nhFDg0bBxmVgw5CUujCxWLKUi7p_Y07WOsOpa8n9ySr3Qrr0R4UoYAR7WAxPqxdXrcY4XkYlb6-856qOHxLkr1DZ0aFKiSqt3-9CFKmEaDOSM1BbSJAg7sRNnv0-1VX2kmnXRKuO0E6ieA-ohWpp-qx6RM21IWvxGtpu4b67xxN3i1a7Q"
+},
+"id": "did:web:piyush7034.github.io:my-files:piyush#bt5BAWDlbYhyR2iRyeO91RPx3pUeGLMsmdVcwfjGfQA",
+"type": "JsonWebKey2020",
+"@context": "https://w3id.org/security/suites/jws-2020/v1"
 }
 ],
 "@context": [
