@@ -1,53 +1,53 @@
 {
-"assertionMethod": [
-"did:web:piyush7034.github.io:my-files:piyush"
-],
-"service": [],
-"id": "did:web:piyush7034.github.io:my-files:piyush",
-"verificationMethod": [
-{
-"publicKeyMultibase": "zDnaekcbQ4yAdAJ67yeeeruMQwgbs4rR7ntHJEKzmQKrb8FKP",
-"controller": "did:web:piyush7034.github.io:my-files:piyush",
-"id": "did:web:piyush7034.github.io:my-files:piyush#RF0HXDC57ACzfbJE-C05fhYbE8BjVhHyIO_UIrlZYM0",
-"type": "EcdsaSecp256r1VerificationKey2019",
-"@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
-},
-{
-"controller": "did:web:piyush7034.github.io:my-files:piyush",
-"publicKeyJwk": {
-"kty": "EC",
-"crv": "secp256k1",
-"x": "Qow-CBoYsLqTIYY9rMUMmYWfxKfyF-hhtJoThr3WZZI",
-"y": "4zdB0qaf__SAuAunNStsiKqnIuenIQQKvzMkGJqoqQM"
-},
-"id": "did:web:piyush7034.github.io:my-files:piyush#_zL72aYQPuy-Fw6xFOLuk14uJ9kDWGa-tN7z__DbvsU",
-"type": "EcdsaSecp256k1VerificationKey2019",
-"@context": "https://w3id.org/security/v1"
-},
-{
-"publicKeyMultibase": "z6Mkv9mcTMfvZ2jLnxDwhNK5D3yU75fwnkozCrxeuNjrgqer",
-"controller": "did:web:piyush7034.github.io:my-files:piyush",
-"id": "did:web:piyush7034.github.io:my-files:piyush#aAy-x_j1qYWLaJ99mFmOrDaFVK5kuqrpWHIkvt7CEXo",
-"type": "Ed25519VerificationKey2020",
-"@context": "https://w3id.org/security/suites/ed25519-2020/v1"
-},
-{
-"controller": "did:web:piyush7034.github.io:my-files:piyush",
-"publicKeyJwk": {
-"kty": "RSA",
-"e": "AQAB",
-"n": "qnAEr2EaWWeT5KtdjCiw7TNi1IWvhiX0jo9vg1ixLdbP9H_H_ua06r1uw8xY3myGhiBu77CHqnstFzbYrJ-QGJnrJogzTV7CaTzSwlNtE3z3Tbm1hN__UmuxJO69CFQV3vDlVSEGOWI3VjVRj7x9kwY5ckFcpRUAgKI__nhFDg0bBxmVgw5CUujCxWLKUi7p_Y07WOsOpa8n9ySr3Qrr0R4UoYAR7WAxPqxdXrcY4XkYlb6-856qOHxLkr1DZ0aFKiSqt3-9CFKmEaDOSM1BbSJAg7sRNnv0-1VX2kmnXRKuO0E6ieA-ohWpp-qx6RM21IWvxGtpu4b67xxN3i1a7Q"
-},
-"id": "did:web:piyush7034.github.io:my-files:piyush#bt5BAWDlbYhyR2iRyeO91RPx3pUeGLMsmdVcwfjGfQA",
-"type": "JsonWebKey2020",
-"@context": "https://w3id.org/security/suites/jws-2020/v1"
-}
-],
-"@context": [
-"https://www.w3.org/ns/did/v1"
-],
-"alsoKnownAs": [],
-"authentication": [
-"did:web:piyush7034.github.io:my-files:piyush"
-]
+  "assertionMethod": [
+    "did:web:piyush7034.github.io:my-files:piyush"
+  ],
+  "service": [],
+  "id": "did:web:piyush7034.github.io:my-files:piyush",
+  "verificationMethod": [
+    {
+      "controller": "did:web:piyush7034.github.io:my-files:piyush",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "qCo74_Q5CPuIKLCOnf_mu7f3bdCuif_pcJKbCAL69azJnmqkNDzrB1pQ9pjsuaazCNhs2p4XkYeDL1EuPDuvjfN_oUwZtWIH0TtmawGfeLyPNe920UzmumrsinUOeHML1BFe8NMy3fCusiKUADe_x7dGH0ZC5v_FEP8yomMrCCwFCTS9bPj2-_RBcEgqx2mbitNROUe3fUsAl_s_H5ieQOs6cZsBO-lQoSb7mwgzxDBMUmVJlkyS4-JqFaMbJiY9vXGjp0h3r9hkYiKDqPL8hV4e1SByDZ366LlT1cs7kLfwleQMoFLwdyv6RCQCGt5wDutsCYw0lWpkS3UvP3RDdw"
+      },
+      "id": "did:web:piyush7034.github.io:my-files:piyush#0pq6Z91H80u9fHfC4F0jgymG50-4lu5UdFJJiIowv7I",
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+    },
+    {
+      "publicKeyMultibase": "zDnaemUJtP2AwHsk2YxSesVnBh66pEHY1Kon2pQM7RuaM12EW",
+      "controller": "did:web:piyush7034.github.io:my-files:piyush",
+      "id": "did:web:piyush7034.github.io:my-files:piyush#McsmXLgFCsvE5Wn-C8s5Xn7A-VASovd2J70yA7yk628",
+      "type": "EcdsaSecp256r1VerificationKey2019",
+      "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
+    },
+    {
+      "publicKeyMultibase": "z6MkuK9a9cdzHeVtmKY2Vu1QNqwdyH3XWZhCZNn7Y3U7c4wf",
+      "controller": "did:web:piyush7034.github.io:my-files:piyush",
+      "id": "did:web:piyush7034.github.io:my-files:piyush#ODKnGPu_ABQOOW8O4tbffBvB-BOYn-irxjYa9xqUzQM",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    },
+    {
+      "controller": "did:web:piyush7034.github.io:my-files:piyush",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "secp256k1",
+        "x": "5_1zypXy7-5B68gOVnukWs8xmGtpDKVbeVxEVdoAuVY",
+        "y": "YMRkuYudik-xCSJ6s-1hB76PKBML-NZqloNjPX_GRZg"
+      },
+      "id": "did:web:piyush7034.github.io:my-files:piyush#nfpCW4J7ErtVqzMpAA6dc6OX-MnoiERT_940VrHROL0",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "@context": "https://w3id.org/security/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:piyush7034.github.io:my-files:piyush"
+  ]
 }
