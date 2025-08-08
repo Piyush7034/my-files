@@ -11,6 +11,18 @@
 "id": "did:web:piyush7034.github.io:my-files:piyush#uyIjmRVmGts8_BusMC6YYHqRLwPQWbufRinStE8SViI",
 "type": "EcdsaSecp256r1VerificationKey2019",
 "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
+},
+{
+"controller": "did:web:piyush7034.github.io:my-files:piyush",
+"publicKeyJwk": {
+"kty": "EC",
+"crv": "secp256k1",
+"x": "zO11E4rDkWL6ThOfJgwoxH-CLBMusBnCHko9ZFBwW5w",
+"y": "vNgZS2yXH-_VVrqD-XmdYkUd--lHVzXQusouzU-lxfo"
+},
+"id": "did:web:piyush7034.github.io:my-files:piyush#tnwTlTvilf5alBG4YjCne5U97gKS8f_4ipn7BMTSNNg",
+"type": "EcdsaSecp256k1VerificationKey2019",
+"@context": "https://w3id.org/security/v1"
 }
 ],
 "@context": [
