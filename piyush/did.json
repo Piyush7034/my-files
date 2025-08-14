@@ -6,7 +6,7 @@
 "id": "did:web:piyush7034.github.io:my-files:piyush",
 "verificationMethod": [
 {
-"publicKeyMultibase": "z6MkuXeqarPYdX3qjZym6wZSozwKE9UDXuoLz47vyEP4ySm4",
+"publicKeyMultibase": "z6Mkv22NkoC1n9bYagHjkNjx2UTaQJkAW8HEvzwdCmrxtNmY",
 "controller": "did:web:piyush7034.github.io:my-files:piyush",
 "id": "did:web:piyush7034.github.io:my-files:piyush#WAEAfiY9n6RQ7dQx3Mr9GxY0ecNT5phy4krmzlQkfwA",
 "type": "Ed25519VerificationKey2020",
