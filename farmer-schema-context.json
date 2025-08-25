@@ -15,24 +15,54 @@
         "gender": "schema:gender",
         "phoneNumber": "schema:telephone",
         "dateOfBirth": "schema:birthDate",
-        "address": "schema:address",
-        "village": "schema:addressLocality",
-        "district": "schema:addressRegion",
-        "state": "schema:addressRegion",
+        "address": {
+            "@id": "schema:address",
+            "@type": "schema:PostalAddress",
+            "@context": {
+                "village": {
+                    "@id": "schema:addressLocality",
+                    "@type": "schema:Text"
+                },
+                "district": {
+                    "@id": "schema:addressRegion",
+                    "@type": "schema:Text"
+                },
+                "state": {
+                    "@id": "schema:addressRegion",
+                    "@type": "schema:Text"
+                }
+            }
+        },
         "primaryCommodity": "schema:productSupported",
         "totalLandArea": {
             "@id": "schema:area",
+            "@type": "schema:QuantitativeValue",
             "@context": {
-                "value": "schema:value",
-                "unit": "schema:unitText"
+                "value": {
+                    "@id": "schema:value",
+                    "@type": "schema:Number"
+                },
+                "unit": {
+                    "@id": "schema:unitText",
+                    "@type": "schema:Text"
+                }
             }
         },
         "ownershipType": "schema:Text",
         "crops": {
             "@id": "schema:productSupported",
-            "@container": "@list"
-        },
-        "cropName": "schema:name",
-        "season": "schema:temporalCoverage"
+            "@type": "@id",
+            "@container": "@list",
+            "@context": {
+                "cropName": {
+                    "@id": "schema:name",
+                    "@type": "schema:Text"
+                },
+                "season": {
+                    "@id": "schema:temporalCoverage",
+                    "@type": "schema:Text"
+                }
+            }
+        }
     }
 }
