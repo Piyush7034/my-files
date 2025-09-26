@@ -13,7 +13,7 @@
 "n": "sjZtbLflHJgIBT57NBtzLV5BK71wlUJ0CpYL1dTlDQPOYcgdLQkm-VlDSWIZWsVnfyVgYrGAYE0r9axQB_9e82xHOdc9Meemjz2r8JYXCTVpuWwhLdzYTJ5JHHYMoRkcK3umx_zpOuD186DsPVyMba60Frv5ebLxXlpSzne0KTZU9Ggg9mXu_7YyuiJysCnpRLU5Ufzd11Q4n3GLXR2b4QsCrM8FsOjgJVOHj6dkPwq34vVbQCyOxUHGuQ8QTppxj4eFAXur7YaIK92gUXCFtsWcRcfM9_IiLtLyC0ZezSEt4PAgw2w3EdsIhJnYtWFwlVISeKii3wgOKfyF6c045Q"
 },
 "id": "did:web:piyush7034.github.io:my-files:piyush#d4CXS3HFH8S3Dn7TMqAaC3yZdgiZxG0Xu4wHrHrQyvc",
-"type": "JsonWebKey2020",
+"type": "RsaVerificationKey2018",
 "@context": "https://w3id.org/security/suites/jws-2020/v1"
 },
 {
