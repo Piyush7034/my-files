@@ -6,7 +6,7 @@
 "id": "did:web:piyush7034.github.io:my-files:piyush-docker",
 "verificationMethod": [
 {
-"publicKeyMultibase": "z6Mkp9Pv8UQedctqfPtXhjSVd6UqNdXjsqCJXGkGsu3XqsiK",
+"publicKeyMultibase": "z6MktwYJ5rVvf5gyd4eoxDW7VorQWJEARP8X7QyJ2sWafWrH",
 "controller": "did:web:piyush7034.github.io:my-files:piyush-docker",
 "id": "did:web:piyush7034.github.io:my-files:piyush-docker#gGBFKVkGYzO6Bu4GHEx6jerkM_gv5dFo3twIQgQI83k",
 "type": "Ed25519VerificationKey2020",
