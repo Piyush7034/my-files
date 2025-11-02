@@ -6,9 +6,9 @@
 "id": "did:web:piyush7034.github.io:my-files:piyush-docker",
 "verificationMethod": [
 {
-"publicKeyMultibase": "z6MkfnJp4JZQZghLhDUJr1DPuwvHP3nVkVmL1hhDdxR5scRW",
+"publicKeyMultibase": "z6MkmkRqpeig1MorsfJxW7ocnL2jcSMXNYdz1Z3rvLki6XN6",
 "controller": "did:web:piyush7034.github.io:my-files:piyush-docker",
-"id": "did:web:piyush7034.github.io:my-files:piyush-docker#67Ul-3dsd7_kgtWc-S1dlzm27zCduA5PFgZurVa1KUw",
+"id": "did:web:piyush7034.github.io:my-files:piyush-docker#g7fVpQh3CO64yk6mrxUIey4ycF3NqX3ASwM1YwnjrS4",
 "type": "Ed25519VerificationKey2020",
 "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
 }
